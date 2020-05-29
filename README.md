@@ -1,3 +1,3 @@
 # StravaAPI
-An API to access and store data.
+A REST API to access and store data.
 
